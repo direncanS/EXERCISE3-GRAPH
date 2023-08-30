@@ -1,4 +1,4 @@
-# EXERCISE3-GRAPH
+# Exercise3-Graph
 Shortest path in Vienna's transport network
 Program: Shortest Path in Vienna Public Transportation Network
 
